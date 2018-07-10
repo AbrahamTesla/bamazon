@@ -66,7 +66,8 @@ let promptPurchase=() => {
                 displayInventory();
             }else{
                 let productInput = result[0];
-                console.log(result);
+                //test it out
+                // console.log(result);
                 if(quantity<=productInput.stock_quantity){
                     console.log(productInput.product_name + 
                 " is in stock. Placing order!");
@@ -80,9 +81,17 @@ let promptPurchase=() => {
                     if(err) throw err;
                     
                     console.log("Your order is placed!");
+                    console.log("Your Total is: $"+productInput.price*quantity);
+                    console.log("---Thank you!!!---");
+
+                    console.log("To shop again enter 'node bamazonCustomer.js'");
+                    connection.end();
 
 
-                })
+                });
+                }else{
+                    console.log("Sorry, not enough stock "+prodoctInput.product_name);
+                    console.log("Please enter new order!");
                 }
             }
         })
