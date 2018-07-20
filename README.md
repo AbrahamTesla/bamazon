@@ -8,11 +8,11 @@ Overall, this app will display 10 items that include Item ID, product Name, depa
 
 Techology use:
 1)Inquirer
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/AbrahamTesla/bamazon/blob/master/WorkBench%20picture.png)
 2)Sql
 ![alt text](http://url/to/img.png)
 3)MAMP
 4)WorkBench
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/AbrahamTesla/bamazon/blob/master/WorkBench%20picture.png)
 5)Visual Studio Code
 ![alt text](http://url/to/img.png)
