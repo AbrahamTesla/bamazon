@@ -6,13 +6,15 @@ To enter into the app again, customer has to run bamazonCustomer.js again on the
 If insufficient product, customer will be prompt again to enter a new order.
 Overall, this app will display 10 items that include Item ID, product Name, department name, number of stocks available, and price.
 
+Here's the my working app which runs in the terminal:
+![alt text](https://github.com/AbrahamTesla/bamazon/blob/master/WorkingAppSample1.png)
+
+![alt text](https://github.com/AbrahamTesla/bamazon/blob/master/WorkBench%20picture.png)
 Techology use:
 1)Inquirer
-![alt text](https://github.com/AbrahamTesla/bamazon/blob/master/WorkBench%20picture.png)
 2)Sql
-![alt text](http://url/to/img.png)
 3)MAMP
 4)WorkBench
-![alt text](https://github.com/AbrahamTesla/bamazon/blob/master/WorkBench%20picture.png)
+
 5)Visual Studio Code
-![alt text](http://url/to/img.png)
+
